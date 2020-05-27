@@ -1,16 +1,47 @@
 # Jobs
-# VP of Global Communications
-#- company: Springfield International Human Rights Outreach
-#  position: VP of Global Communications
-#  duration: Oct, 2013 &mdash; Present
-#  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-#
-## Director of Digital Stratgy
-#- company: United Nations Human Rights Council
-#  position: Director of Digital Strategy
-#  duration:  Jun, 2010 &mdash; Sept, 2013
-#  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-#
+- company: TUI
+  position: Solutions Architect
+  duration: Jan, 2017 &mdash; Present
+  summary: As Solution Architect, I am responsible for the reference architecture and reference implementation needed to sustain the business.
+    Define and evolve a go-forward architecture, software development standards, security standards and process improvement efforts, with focus on
+    those that involve new and innovative technologies.
+
+    <ul class="resume-item-list">
+    <li>Specify and design solutions that add value and efficiency to business areas and systems.</li>
+    <li>Evaluate and undertake impact analyses on major design options and assess associated risks.</li>
+    <li>Collaborate closely with technology system and team leads in determining optimal solutions to product goals and aligning system/architecture roadmaps to product plans.</li>
+    <li>Actively engage with engineering teams in the development and implementation of solutions designed, providing guidance on solution approach, technical best practices, and business priorities.</li>
+    <li>Support development of cross-functional business processes; identify alternative solutions, assess feasibility, and recommend new approaches via technology enablement.</li>
+    <li>Stay informed on technology trends and product roadmaps to make strategic solution architecture recommendations.</li>
+    <li>Lead the migration to micro-services architecture.</li>
+    <li>Responsible for overall execution architecture & design of the API approach within Digital platforms group.</li>
+    <li>Research the existing application and recommend the granularity of API’s to ensure they meet the business needs but are not coupled to channels.</li>
+    <li>Direct experience with product development in an enterprise setting, leveraging modern technology stacks and cloud-based systems such as AWS</li>
+    <li>Strong knowledge of various integration approaches such as micro-services, messaging, queuing, API patterns, etc.</li>
+    <li>Implementation of DevOps strategy and DevOps tools (Gitlab CI, Docker, Ansible, Terraform, ECS, ECR, Sonar Qube, Maven)</li>
+    </ul>
+
+- company: Hotelbeds
+  position: Applications Architect
+  duration:  Sep, 2015 &mdash; Jan, 2017
+  summary: Provide solutions in areas of disaster recovery, data integrity and security, design and analysis of software projects.
+
+    <ul class="resume-item-list">
+    <li>Design the interaction between systems, restrictions on the use of platforms and tools.</li>
+    <li>Set global standards shared between supervised systems.</li>
+    <li>Ensure that all solutions, usually composed of many infrastructure elements and software, works well with each other.</li>
+    <li>Diagnose the whole system, understand all interactions between components on a given level of abstraction, as well as to define limitations and requirements for source code.</li>
+    <li>Knowledges about non-functional requirements to the system and how does the architecture reflect them, what components are in the system and what are their responsibilities, what are the interfaces and available connections between components, what kind of technologies, standards and limitations are used to create the application.</li>
+    <li>Knowledges about high availability systems, scalability and service-oriented programming.</li>
+    <li>Knowledges about Non-relational databases as (Redis for centralised cache), MongoDB, Cassandra, Elasticsearch. EhCache, Guava, Ignite.</li>
+    <li>Knowledges about relational databases as PostgreSQL, MySQL, Oracle 11g.</li>
+    <li>Knowledges about micro-services patterns, Spring boot and Spring Cloud Netflix, Spring Cloud Config server and client-side for externalised configuration in a distributed system, Service Discovery (Eureka, Consul), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client-Side Load Balancing (Ribbon).</li>
+    <li>Knowledges about Amazon Web Service (S3, EC2, SES, Route 53, VPC).</li>
+    <li>Knowledges about metrics systems as Datadog, Ganglia, Grafana.</li>
+    <li>Knowledges about log management platform and ELK</li>
+    <li>Development of a maven archetype for microservice-oriented applications using Spring Cloud Netflix.</li>
+    </ul>
+
 ## Communications Coordinator
 #- company: Springfield Women & Children's Center
 #  position: Communications Coordinator
