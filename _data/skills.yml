@@ -1,12 +1,28 @@
-# Skills
-# Organizational leadership
-#- skill: Organizational leadership
-#  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-#
-## Communications strategy
-#- skill: Communications strategy
-#  description: Content and marketing strategy,
-#
-## Digital content development and creation
-#- skill: Digital content development and creation
-#  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: AWS Amazon Web Services
+  description: <a href="https://aws.amazon.com/what-is-aws/?nc1=h_ls">Cloud computing with AWS</a>
+
+- skill: DevOps
+  description: Dockers, Vagrant, Ansible, CloudFormation, Terraform, Gitlab CI, Jenkins, AWS, Datadog, etc.
+
+- skill: Software Engineering and Architecture
+  description: Microservice architecture, Event-Driven architecture, SOA Architecture (Web Services, RMI), Design Patterns, High Availability Systems,
+    Distributed Systems, Blockchain, Autoscaling, Monitoring, Cloud Computing.
+
+- skill: Database
+  description: Oracle, Sybase, MySQL, PL/SQL, SQL Anywhere, SQL Server 2000, Postgres, DB2, Pro*C, OCCI
+
+- skill: Software Development
+  description:
+    <ul class="resume-item-list">
+    <li>Object oriented programming (Java, C/C++, Groovy, Grails, Python)</li>
+    <li>Java enterprise applications JEE (JMS, MDB, EJB, JDBC, Servicios Web, RMI, MVC)</li>
+    <li>Frameworks (Spring Framework, Spring Boot, Spring Cloud, Spring Batch Spring WebFlow, Spring Security, Spring Web Services, JSF, MyFaces, IceFaces)</li>
+    <li>Frameworks ORM (Hibernate3, Ibatis, MyBatis, JDO, JPA, spring-data)</li>
+    <li>Application servers (WebLogic, JBoss, WebPhere, Geronimo, Sun Glassfish, OC4J, Tomcat (Web Server)</li>
+    <li>Apache Maven, Apache Ant</li>
+    <li>Scripting Languages (JAVASCRIPT, JQUERY, EXTJS, JSON, DOJO, AJAX, TAGSLIBS)</li>
+    <li>Versions control  (GIT, SVN, CVS)</li>
+    <li>Agile development methodologies (Scrum, Extreme Programming), Unified Modeling Language  (UML)	Markup Languages (XML, XSL, DTS, XHTML, HTML, VXML, JAXB, JAX, XPATH) </li>
+    </ul>
+
+
