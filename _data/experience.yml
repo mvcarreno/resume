@@ -1,117 +1,22 @@
-# Jobs
-- company: TUI
-  position: Solutions Architect
-  duration: Jan, 2017 &mdash; Present
-  summary: As Solution Architect, I am responsible for the reference architecture and reference implementation needed to sustain the business.
-    Define and evolve a go-forward architecture, software development standards, security standards and process improvement efforts, with focus on
-    those that involve new and innovative technologies.
-
-    <ul class="resume-item-list">
-    <li>Specify and design solutions that add value and efficiency to business areas and systems.</li>
-    <li>Evaluate and undertake impact analyses on major design options and assess associated risks.</li>
-    <li>Collaborate closely with technology system and team leads in determining optimal solutions to product goals and aligning system/architecture roadmaps to product plans.</li>
-    <li>Actively engage with engineering teams in the development and implementation of solutions designed, providing guidance on solution approach, technical best practices, and business priorities.</li>
-    <li>Support development of cross-functional business processes; identify alternative solutions, assess feasibility, and recommend new approaches via technology enablement.</li>
-    <li>Stay informed on technology trends and product roadmaps to make strategic solution architecture recommendations.</li>
-    <li>Lead the migration to micro-services architecture.</li>
-    <li>Responsible for overall execution architecture & design of the API approach within Digital platforms group.</li>
-    <li>Research the existing application and recommend the granularity of API’s to ensure they meet the business needs but are not coupled to channels.</li>
-    <li>Direct experience with product development in an enterprise setting, leveraging modern technology stacks and cloud-based systems such as AWS</li>
-    <li>Strong knowledge of various integration approaches such as micro-services, messaging, queuing, API patterns, etc.</li>
-    <li>Implementation of DevOps strategy and DevOps tools (Gitlab CI, Docker, Ansible, Terraform, ECS, ECR, Sonar Qube, Maven)</li>
-    </ul>
-
-- company: Hotelbeds
-  position: Applications Architect
-  duration:  Sep, 2015 &mdash; Jan, 2017
-  summary: Provide solutions in areas of disaster recovery, data integrity and security, design and analysis of software projects.
-
-    <ul class="resume-item-list">
-    <li>Design the interaction between systems, restrictions on the use of platforms and tools.</li>
-    <li>Set global standards shared between supervised systems.</li>
-    <li>Ensure that all solutions, usually composed of many infrastructure elements and software, works well with each other.</li>
-    <li>Diagnose the whole system, understand all interactions between components on a given level of abstraction, as well as to define limitations and requirements for source code.</li>
-    <li>Knowledges about non-functional requirements to the system and how does the architecture reflect them, what components are in the system and what are their responsibilities, what are the interfaces and available connections between components, what kind of technologies, standards and limitations are used to create the application.</li>
-    <li>Knowledges about high availability systems, scalability and service-oriented programming.</li>
-    <li>Knowledges about Non-relational databases as (Redis for centralised cache), MongoDB, Cassandra, Elasticsearch. EhCache, Guava, Ignite.</li>
-    <li>Knowledges about relational databases as PostgreSQL, MySQL, Oracle 11g.</li>
-    <li>Knowledges about micro-services patterns, Spring boot and Spring Cloud Netflix, Spring Cloud Config server and client-side for externalised configuration in a distributed system, Service Discovery (Eureka, Consul), Circuit Breaker (Hystrix), Intelligent Routing (Zuul) and Client-Side Load Balancing (Ribbon).</li>
-    <li>Knowledges about Amazon Web Service (S3, EC2, SES, Route 53, VPC).</li>
-    <li>Knowledges about metrics systems as Datadog, Ganglia, Grafana.</li>
-    <li>Knowledges about log management platform and ELK</li>
-    <li>Development of a maven archetype for microservice-oriented applications using Spring Cloud Netflix.</li>
-    </ul>
-
-- company: Onwhyon
-  position: Applications Architect
-  duration:   Nov, 2014  &mdash; Jun, 2015
-  summary: Java Architect, Indicex Project <a href=https://bankiaindicex.com>Bankia Indicex</a>. Development of a self-assessment tool of web
-    pages that analyses the level of digitalization through 8 behaviour areas. The final aim is the generation of a report which details the
-    digitalization level of a web page taking areas as SEO Positioning, Usability Contents, Digital Marketing, Social Networking, Web Analytics,
-    E-Commerce and Mobility.
-    <br><br> This project was developed using spring-framework 4.1, spring-data, JPA, spring-mvc, restful services, AngularJS 1.3, bootstrap,
-    maven 3.0, MySQL, etc. The project was divided into three distinct phases, On phase 1 was implemented with the API <a href=https://code.google.com/p/crawler4j>crawler4j</a>
-    to obtain and download the web page code. This API obtains the links and depth level of a web page and through regular expressions, it is possible
-    to filter and get relevant information about social networks, contacts, usability level, speed load, headers, W3C validation, server location,
-    sitemaps, robots, backlinks, analytics integration, AdWords, mobile subdomain, HTML tags, contents length, keywords, CSS content, etc.
-    <br><br>On phase 2 was developed several APIs of social network and other functionalities, Facebook Google plus, Google Translate, Instagram,
-    Klout, PageRank, Page Speed, SEMrush, Twitter, W3C, YouTube. At this stage and with the information obtained on Phase 1 we proceed through a
-    pool of threads to obtain the relevant information with parallel tasks.
-    <br><br> On phase 3 a web form is presented to the end-user to complete the analysis and it is presented a report. In this report you can get
-    the notes of each measurement area. Working over Scrum methodology, doing daily sprint, sprint reviews, sprint and product backlog, user stories
-    and methods of measurement of priority and importance of each user story.
-
-- company: Trentisa
-  position: Software Consultant
-  duration:   Apr, 2010  &mdash; Nov, 2014
-  summary: Ensure the viability of systems according to business characteristics of customers, update knowledge about new technologies and products,
-    get information to design and improve software applications, analysis, documentation, business requirements, functional design and organic design,
-    estimations reviews, review of new implementation techniques, etc.
-
-    <br><br><strong>SEPA Project</strong>, Design implementation and development of the architecture and business components for a project based on
-    SEPA (Single Euro Payments Area). Definition of functional requirements for the processes of direct debit, mandates, receipts and transfers.
-
-    <br><br><strong>Bank of Santander</strong>, Development of applications that require bulk processing to perform business operations in mission
-    critical environments, electronics markets, etc. These business operations include automated, complex processing of large volumes of information
-    processed without user interaction, periodic applications of complex business rules processed repetitively across very large data sets, integration
-    of information that is received from internal and external systems that typically requires formatting, validation and processing in a transactional
-    manner into the system of record.   Design of a web application to apply business rules and financial calculations over insurance process and
-    leasing process. Estimating of costs, insurances, R.O.I, etc.   Technologies (Spring core 3.0, Spring batch, Spring MVC, JSF 2.0, Python,
-    Jasper Report, Oracle BBDD, MyBatis, JPA 2.0, Maven 3.0).
-
-    <br><br><strong>LeasePlan</strong> Web application for analysis of profitability studies, this application run over an intranet into the company,
-    its principal business rule is to do several financial calculations as costs, insurances, profitability, etc. This application was developed using
-    Spring framework, JSF2, Prime-faces 3, Jasper Report and Maven 3.
-
-- company: Virtual Desk
-  position: Software Developer
-  duration: Sep, 2009  &mdash; Apr, 2010
-  summary: Projects design, transactions technical design and generals task, prototypes design and assembly testing, evaluation and control of unit
-    testing, technical solution architecture, development methodologies. Distributed architecture solutions and development of components of highly
-    scalable applications. Lead architecture and design discussions, technology selection, and perform code reviews.  Experience with Agile
-    methodologies and practices. Experience in writing business and technically oriented documents. Technologies (ZKOSS RIA Framework, Spring
-    Framework 2.5.6, Hibernate with JPA, HQL, Oracle Database 10g, Maven 2, SVN, Source Forge, Spring Web Flow).
-
-- company: Everis Spain
-  position: Software Developer
-  duration: Jan, 2009  &mdash; Sep, 2009
-  summary: Comprehensive infrastructure support in developing Java applications, technical architecture, development methodologies, Liferay Portlets
-    application development and SOA architecture.  Technical design and transaction tasks in general, decomposition and operating chain design,
-    prototyping and assembly testing, evaluation and control of unit testing and assembly.  Data Analysis, data migrations, data modelling, data
-    Integration, data warehousing, database design, data architecture strategy, conceptual data model and metadata repository.
-    Technologies (Java Spring Framework 2.0, Struts 2.0, iBatis, Oracle Database 10g, AjaxTagsLibs, JSON, Dojo, Liferay Portlets).
-
-- company: OLTP Voice, Caracas
-  position: Software Developer
-  duration: Jan, 2008  &mdash; Jan, 2009
-  summary: Technical analyst programmer, application development and data organisation, OOP, UML diagramming, database management and software
-    quality techniques. Development and middleware support in Movistar post-paid transactions system, synchronous and asynchronous applications,
-    activation and updating accounts for post-paid mobile and telephony.
-
-- company: Imolko, Caracas
-  position: Software Developer
-  duration: Jan, 2006  &mdash; Jan, 2008
-  summary: Technical analyst programmer, application development and data organisation, OOP, UML diagramming, database management and software
-    quality techniques. Development of Web components and business components for applications that interact with users over short messages system
-    (SMS). Developing Components in programming language (Java, ASP, JScript, VBScript, C/C+ +), Databases SQL Server 2000, Oracle and SQL Anywhere,
-    Web Services (SOA Systinet Server) technology Ajax, Java Wrapper Service, SMPP Protocol.
+## Jobs
+#- company: TUI
+#  position: Solutions Architect
+#  duration: Jan, 2017 &mdash; Present
+#  summary: As Solution Architect, I am responsible for the reference architecture and reference implementation needed to sustain the business.
+#    Define and evolve a go-forward architecture, software development standards, security standards and process improvement efforts, with focus on
+#    those that involve new and innovative technologies.
+#
+#    <ul class="resume-item-list">
+#    <li>Specify and design solutions that add value and efficiency to business areas and systems.</li>
+#    <li>Evaluate and undertake impact analyses on major design options and assess associated risks.</li>
+#    <li>Collaborate closely with technology system and team leads in determining optimal solutions to product goals and aligning system/architecture roadmaps to product plans.</li>
+#    <li>Actively engage with engineering teams in the development and implementation of solutions designed, providing guidance on solution approach, technical best practices, and business priorities.</li>
+#    <li>Support development of cross-functional business processes; identify alternative solutions, assess feasibility, and recommend new approaches via technology enablement.</li>
+#    <li>Stay informed on technology trends and product roadmaps to make strategic solution architecture recommendations.</li>
+#    <li>Lead the migration to micro-services architecture.</li>
+#    <li>Responsible for overall execution architecture & design of the API approach within Digital platforms group.</li>
+#    <li>Research the existing application and recommend the granularity of API’s to ensure they meet the business needs but are not coupled to channels.</li>
+#    <li>Direct experience with product development in an enterprise setting, leveraging modern technology stacks and cloud-based systems such as AWS</li>
+#    <li>Strong knowledge of various integration approaches such as micro-services, messaging, queuing, API patterns, etc.</li>
+#    <li>Implementation of DevOps strategy and DevOps tools (Gitlab CI, Docker, Ansible, Terraform, ECS, ECR, Sonar Qube, Maven)</li>
+#    </ul>
